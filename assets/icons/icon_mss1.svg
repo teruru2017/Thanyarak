@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60.688" height="54.5" viewBox="0 0 60.688 54.5">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#43cef8"/>
+      <stop offset="1" stop-color="#0088c6"/>
+    </linearGradient>
+    <filter id="Path_1223" x="0" y="0" width="53.438" height="53.665" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#0088c6" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#feabbc"/>
+      <stop offset="1" stop-color="#f93a8b"/>
+    </linearGradient>
+    <filter id="Ellipse_166" x="24.25" y="18.063" width="36.438" height="36.438" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#fc84ab" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_1224" x="7.875" y="10.125" width="31.781" height="21.375" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_1225" x="7.875" y="16.875" width="26.719" height="21.375" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_2347" data-name="Group 2347" transform="translate(-1446 -585)">
+    <g transform="matrix(1, 0, 0, 1, 1446, 585)" filter="url(#Path_1223)">
+      <path id="Path_1223-2" data-name="Path 1223" d="M1487.625,591h-29.812a2.813,2.813,0,0,0-2.812,2.813V624.83a1.831,1.831,0,0,0,3.125,1.294l4.75-4.75h24.75a2.813,2.813,0,0,0,2.813-2.812v-24.75A2.813,2.813,0,0,0,1487.625,591Z" transform="translate(-1446 -585)" fill="url(#linear-gradient)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 1446, 585)" filter="url(#Ellipse_166)">
+      <circle id="Ellipse_166-2" data-name="Ellipse 166" cx="8.719" cy="8.719" r="8.719" transform="translate(33.75 24.56)" stroke="#fda0b7" stroke-width="1" fill="url(#linear-gradient-2)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 1446, 585)" filter="url(#Path_1224)">
+      <path id="Path_1224-2" data-name="Path 1224" d="M1481.094,612.375h-10.406a1.688,1.688,0,0,1,0-3.375h10.406a1.688,1.688,0,0,1,0,3.375Z" transform="translate(-1452.13 -592.88)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 1446, 585)" filter="url(#Path_1225)">
+      <path id="Path_1225-2" data-name="Path 1225" d="M1476.031,624.375h-5.344a1.688,1.688,0,0,1,0-3.375h5.344a1.688,1.688,0,0,1,0,3.375Z" transform="translate(-1452.13 -598.13)" fill="#fff"/>
+    </g>
+    <g id="Group_2347-2" data-name="Group 2347" transform="translate(1485.581 614.784)">
+      <path id="Path_1226" data-name="Path 1226" d="M1512.291,633.282h0a2.924,2.924,0,0,0-2.924,2.924v2.253a.546.546,0,0,0,.546.546h4.755a.546.546,0,0,0,.546-.546v-2.253A2.924,2.924,0,0,0,1512.291,633.282Z" transform="translate(-1509.367 -633.282)" fill="#fff"/>
+      <rect id="Rectangle_650" data-name="Rectangle 650" width="1.947" height="0.746" transform="translate(1.95 6.407)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
